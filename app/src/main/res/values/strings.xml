@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">Hola Mundo</string>
-    <string name="tvMessageStartText">Hola Mundo</string>
-    <string name="tvMessageEndText">MUY Cruel</string>
-    <string name="txtMessageOptimist">En este maravilloso dia</string>
-</resources>

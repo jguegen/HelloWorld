@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.juanlugg8.helloworld","l":"MainActivity"}];updateSearchResults();
